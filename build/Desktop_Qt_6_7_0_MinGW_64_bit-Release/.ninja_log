@@ -1,0 +1,9 @@
+# ninja log v5
+3	1287	7418913787562855	JSONWorker_autogen/timestamp	138955ef7c94993d
+3	1287	7418913787562855	JSONWorker_autogen/mocs_compilation.cpp	138955ef7c94993d
+3	1287	7418913787562855	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/JSONWorker_autogen/timestamp	138955ef7c94993d
+3	1287	7418913787562855	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/JSONWorker_autogen/mocs_compilation.cpp	138955ef7c94993d
+1296	4409	7418913819975163	CMakeFiles/JSONWorker.dir/main.cpp.obj	100e95d3215cd6a3
+1288	4426	7418913820233616	CMakeFiles/JSONWorker.dir/JSONWorker_autogen/mocs_compilation.cpp.obj	d46913c2ec669013
+1303	5336	7418913829297174	CMakeFiles/JSONWorker.dir/mainwindow.cpp.obj	8dea9f01cb9a36a1
+5337	5625	7418913832129411	JSONWorker.exe	a518172fb1c2fea3

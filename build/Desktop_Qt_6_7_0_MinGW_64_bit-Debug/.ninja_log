@@ -1,0 +1,103 @@
+# ninja log v5
+10	268	7418875451863541	JSONWorker_autogen/timestamp	3262e179f2e23afe
+10	268	7418875451863541	JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+10	268	7418875451863541	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+10	268	7418875451863541	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/timestamp	3262e179f2e23afe
+1303	4967	7418858675775374	CMakeFiles/JSONWorker.dir/main.cpp.obj	ef19456254e23a4
+1312	4947	7418858675584165	CMakeFiles/JSONWorker.dir/JSONWorker_autogen/mocs_compilation.cpp.obj	4f5eb59d20765af8
+4587	4988	7418875498869540	JSONWorker.exe	9931a5046677b9f7
+314	4587	7418875494989441	CMakeFiles/JSONWorker.dir/mainwindow.cpp.obj	1d48e0b61a59c4b
+10	269	7418879701013186	JSONWorker_autogen/timestamp	3262e179f2e23afe
+10	269	7418879701013186	JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+10	269	7418879701013186	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/timestamp	3262e179f2e23afe
+10	269	7418879701013186	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+315	4573	7418879743972135	CMakeFiles/JSONWorker.dir/mainwindow.cpp.obj	1d48e0b61a59c4b
+4574	4978	7418879747878094	JSONWorker.exe	9931a5046677b9f7
+10	274	7418885369182233	JSONWorker_autogen/timestamp	3262e179f2e23afe
+10	274	7418885369182233	JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+10	274	7418885369182233	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/timestamp	3262e179f2e23afe
+10	274	7418885369182233	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+320	4631	7418885412794257	CMakeFiles/JSONWorker.dir/mainwindow.cpp.obj	1d48e0b61a59c4b
+4632	5052	7418885416961746	JSONWorker.exe	9931a5046677b9f7
+10	260	7418885959810486	JSONWorker_autogen/timestamp	3262e179f2e23afe
+10	260	7418885959810486	JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+10	260	7418885959810486	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/timestamp	3262e179f2e23afe
+10	260	7418885959810486	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+305	4611	7418886003393804	CMakeFiles/JSONWorker.dir/mainwindow.cpp.obj	1d48e0b61a59c4b
+4612	5019	7418886007453634	JSONWorker.exe	9931a5046677b9f7
+10	258	7418889589859492	JSONWorker_autogen/timestamp	3262e179f2e23afe
+10	258	7418889589859492	JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+10	258	7418889589859492	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/timestamp	3262e179f2e23afe
+10	258	7418889589859492	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+303	4768	7418889635007077	CMakeFiles/JSONWorker.dir/mainwindow.cpp.obj	1d48e0b61a59c4b
+4769	5207	7418889639351460	JSONWorker.exe	9931a5046677b9f7
+11	278	7418891093117385	JSONWorker_autogen/timestamp	3262e179f2e23afe
+11	278	7418891093117385	JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+11	278	7418891093117385	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/timestamp	3262e179f2e23afe
+11	278	7418891093117385	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+324	4843	7418891138831450	CMakeFiles/JSONWorker.dir/mainwindow.cpp.obj	1d48e0b61a59c4b
+4843	5281	7418891143200434	JSONWorker.exe	9931a5046677b9f7
+10	258	7418892516221960	JSONWorker_autogen/timestamp	3262e179f2e23afe
+10	258	7418892516221960	JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+10	258	7418892516221960	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/timestamp	3262e179f2e23afe
+10	258	7418892516221960	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+304	4667	7418892560252930	CMakeFiles/JSONWorker.dir/mainwindow.cpp.obj	1d48e0b61a59c4b
+4668	5104	7418892564626629	JSONWorker.exe	9931a5046677b9f7
+10	265	7418894480669246	JSONWorker_autogen/timestamp	3262e179f2e23afe
+10	265	7418894480669246	JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+10	265	7418894480669246	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/timestamp	3262e179f2e23afe
+10	265	7418894480669246	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+311	4786	7418894525799221	CMakeFiles/JSONWorker.dir/mainwindow.cpp.obj	1d48e0b61a59c4b
+4787	5217	7418894530127524	JSONWorker.exe	9931a5046677b9f7
+11	330	7418899127418671	JSONWorker_autogen/timestamp	3262e179f2e23afe
+11	330	7418899127418671	JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+11	330	7418899127418671	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/timestamp	3262e179f2e23afe
+11	330	7418899127418671	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+376	4793	7418899172069211	CMakeFiles/JSONWorker.dir/mainwindow.cpp.obj	1d48e0b61a59c4b
+4794	5218	7418899176248976	JSONWorker.exe	9931a5046677b9f7
+11	1232	7418905904888336	JSONWorker_autogen/timestamp	3262e179f2e23afe
+11	1232	7418905904888336	JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+11	1232	7418905904888336	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/timestamp	3262e179f2e23afe
+11	1232	7418905904888336	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+1240	4675	7418905940465184	CMakeFiles/JSONWorker.dir/JSONWorker_autogen/mocs_compilation.cpp.obj	4f5eb59d20765af8
+1233	4692	7418905940723165	CMakeFiles/JSONWorker.dir/main.cpp.obj	ef19456254e23a4
+1248	5619	7418905949903669	CMakeFiles/JSONWorker.dir/mainwindow.cpp.obj	1d48e0b61a59c4b
+5620	6032	7418905954073073	JSONWorker.exe	9931a5046677b9f7
+10	1358	7418908215246254	JSONWorker_autogen/timestamp	3262e179f2e23afe
+10	1358	7418908215246254	JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+10	1358	7418908215246254	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/timestamp	3262e179f2e23afe
+10	1358	7418908215246254	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+1359	5671	7418908259735502	CMakeFiles/JSONWorker.dir/main.cpp.obj	ef19456254e23a4
+1367	5695	7418908260048764	CMakeFiles/JSONWorker.dir/JSONWorker_autogen/mocs_compilation.cpp.obj	4f5eb59d20765af8
+1374	6653	7418908269467573	CMakeFiles/JSONWorker.dir/mainwindow.cpp.obj	1d48e0b61a59c4b
+6653	7081	7418908273792349	JSONWorker.exe	9931a5046677b9f7
+11	326	7418909202361189	JSONWorker_autogen/timestamp	3262e179f2e23afe
+11	326	7418909202361189	JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+11	326	7418909202361189	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/timestamp	3262e179f2e23afe
+11	326	7418909202361189	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+372	4638	7418909245476722	CMakeFiles/JSONWorker.dir/mainwindow.cpp.obj	1d48e0b61a59c4b
+4639	5070	7418909249801281	JSONWorker.exe	9931a5046677b9f7
+11	279	7418910058846967	JSONWorker_autogen/timestamp	3262e179f2e23afe
+11	279	7418910058846967	JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+11	279	7418910058846967	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/timestamp	3262e179f2e23afe
+11	279	7418910058846967	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+326	4702	7418910102893536	CMakeFiles/JSONWorker.dir/mainwindow.cpp.obj	1d48e0b61a59c4b
+4702	5116	7418910107066266	JSONWorker.exe	9931a5046677b9f7
+10	261	7418911206049193	JSONWorker_autogen/timestamp	3262e179f2e23afe
+10	261	7418911206049193	JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+10	261	7418911206049193	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/timestamp	3262e179f2e23afe
+10	261	7418911206049193	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+306	4611	7418911249547397	CMakeFiles/JSONWorker.dir/mainwindow.cpp.obj	1d48e0b61a59c4b
+4612	5074	7418911254188076	JSONWorker.exe	9931a5046677b9f7
+12	326	7418911773380350	JSONWorker_autogen/timestamp	3262e179f2e23afe
+12	326	7418911773380350	JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+12	326	7418911773380350	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/timestamp	3262e179f2e23afe
+12	326	7418911773380350	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+373	4984	7418911819897988	CMakeFiles/JSONWorker.dir/mainwindow.cpp.obj	1d48e0b61a59c4b
+4984	5407	7418911824086470	JSONWorker.exe	9931a5046677b9f7
+11	288	7418912782442548	JSONWorker_autogen/timestamp	3262e179f2e23afe
+11	288	7418912782442548	JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+11	288	7418912782442548	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/timestamp	3262e179f2e23afe
+11	288	7418912782442548	C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/JSONWorker_autogen/mocs_compilation.cpp	3262e179f2e23afe
+336	5070	7418912830191213	CMakeFiles/JSONWorker.dir/mainwindow.cpp.obj	1d48e0b61a59c4b
+5070	5495	7418912834408460	JSONWorker.exe	9931a5046677b9f7

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-b6af14128b317d989cc7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "JSONWorker",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "JSONWorker::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JSONWorker-Release-257660ac5aaea9b7138a.json",
+					"name" : "JSONWorker",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JSONWorker_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JSONWorker_autogen-Release-f91f62dd3dad6eae4f61.json",
+					"name" : "JSONWorker_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JSONWorker_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JSONWorker_autogen_timestamp_deps-Release-675582f0ca2ae7884f03.json",
+					"name" : "JSONWorker_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/disc P/QT_WORKSPACE/JSONWorker/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release",
+		"source" : "C:/disc P/QT_WORKSPACE/JSONWorker"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
